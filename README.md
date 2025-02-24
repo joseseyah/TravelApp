@@ -7,7 +7,7 @@ TravelApp is designed for Muslim travelers, helping them manage flights and acce
 
 Below are screenshots showcasing the app:
 
-<img src="Simulator Screenshot - iPhone 16 Pro - 2025-02-24 at 15.10.12.png" width="300">
+<img src="Simulator Screenshot - iPhone 16 Pro - 2025-02-20 at 18.21.43.png" width="300">
 <img src="Simulator Screenshot - iPhone 16 Pro - 2025-02-24 at 15.10.15.png" width="300">
 <img src="Simulator Screenshot - iPhone 16 Pro - 2025-02-24 at 15.10.18.png" width="300">
 
