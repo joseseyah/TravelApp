@@ -1,4 +1,4 @@
-# 🛫 TravelApp
+# 🛫 Sky Prayers
 
 **A submission for the Apple Swift Challenge 2025**  
 TravelApp is designed for Muslim travelers, helping them manage flights and access in-flight prayers effortlessly. Built with Swift Playgrounds, the app focuses on a seamless, intuitive experience.
